@@ -1,0 +1,1912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects type="array">
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2005-10-03</created-on>
+    <id type="integer">202816</id>
+    <last-changed-on type="datetime">2010-03-16T17:57:04Z</last-changed-on>
+    <name>Texas Politics</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2005-10-07</created-on>
+    <id type="integer">208268</id>
+    <last-changed-on type="datetime">2006-01-05T16:11:18Z</last-changed-on>
+    <name>LRC Proposal</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">151705</id>
+      <name>French and Italian</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2005-10-11</created-on>
+    <id type="integer">211351</id>
+    <last-changed-on type="datetime">2006-02-03T20:11:10Z</last-changed-on>
+    <name>New Course for Yoruba Language</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">153861</id>
+      <name>African and African American Studies</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2005-10-14</created-on>
+    <id type="integer">214491</id>
+    <last-changed-on type="datetime">2006-02-02T17:27:21Z</last-changed-on>
+    <name>Texas Politics Development</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2005-10-19</created-on>
+    <id type="integer">218523</id>
+    <last-changed-on type="datetime" nil="true"></last-changed-on>
+    <name>Introduction to Expressive Culture</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">158442</id>
+      <name>Anthropology</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2005-10-19</created-on>
+    <id type="integer">218652</id>
+    <last-changed-on type="datetime">2007-01-10T17:16:22Z</last-changed-on>
+    <name>Jesus In American Culture</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">158501</id>
+      <name>History</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2005-10-20</created-on>
+    <id type="integer">219933</id>
+    <last-changed-on type="datetime">2005-11-15T05:42:18Z</last-changed-on>
+    <name>Scanning--Theater &amp; Costumes</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2005-10-26</created-on>
+    <id type="integer">225271</id>
+    <last-changed-on type="datetime">2007-04-23T16:43:40Z</last-changed-on>
+    <name>GOV310</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2005-11-05</created-on>
+    <id type="integer">234022</id>
+    <last-changed-on type="datetime">2005-11-15T05:59:52Z</last-changed-on>
+    <name>Web Compendium</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2005-11-07</created-on>
+    <id type="integer">235318</id>
+    <last-changed-on type="datetime">2005-11-18T07:40:40Z</last-changed-on>
+    <name>Feeds</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Faculty Developer: Hans Boas
+Project Producer: Jim Henson
+Project Manager: Emily Cicchini</announcement>
+    <created-on type="date">2005-11-07</created-on>
+    <id type="integer">235324</id>
+    <last-changed-on type="datetime">2010-01-12T19:04:08Z</last-changed-on>
+    <name>Texas German Experience</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">1076470</id>
+      <name>Germanic Studies</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2005-11-09</created-on>
+    <id type="integer">237383</id>
+    <last-changed-on type="datetime" nil="true"></last-changed-on>
+    <name>Institute for Classical Archaeology</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2005-11-11</created-on>
+    <id type="integer">239949</id>
+    <last-changed-on type="datetime" nil="true"></last-changed-on>
+    <name>World History To 1550 Pt. 2</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">158501</id>
+      <name>History</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2005-11-14</created-on>
+    <id type="integer">241843</id>
+    <last-changed-on type="datetime">2005-11-17T16:10:00Z</last-changed-on>
+    <name>Crestron Swaps</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2005-11-15</created-on>
+    <id type="integer">242286</id>
+    <last-changed-on type="datetime">2006-01-05T16:10:45Z</last-changed-on>
+    <name>Development Page</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2005-11-17</created-on>
+    <id type="integer">245097</id>
+    <last-changed-on type="datetime" nil="true"></last-changed-on>
+    <name>Inventory Web Database</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2005-11-17</created-on>
+    <id type="integer">245105</id>
+    <last-changed-on type="datetime">2006-10-30T20:41:45Z</last-changed-on>
+    <name>RoomView Deployment</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2005-11-17</created-on>
+    <id type="integer">245120</id>
+    <last-changed-on type="datetime" nil="true"></last-changed-on>
+    <name>MEZ Auditorium Lighting</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement>This component of the Texas Politics project brings speakers from all levels of Texas politics and government to the UT campus. Events are captured on video and published at the Texas Politics website.</announcement>
+    <created-on type="date">2005-12-15</created-on>
+    <id type="integer">270155</id>
+    <last-changed-on type="datetime">2009-01-12T22:21:25Z</last-changed-on>
+    <name>Texas Politics Speaker Series</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2006-01-25</created-on>
+    <id type="integer">313141</id>
+    <last-changed-on type="datetime">2007-02-16T23:08:18Z</last-changed-on>
+    <name>Liberal Arts Master Lecture Archive</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2006-04-18</created-on>
+    <id type="integer">428108</id>
+    <last-changed-on type="datetime">2008-10-11T15:16:48Z</last-changed-on>
+    <name>Daily Intelligencer:  Steve Friesen</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>all</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">171853</id>
+      <name>Classics</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2006-09-13</created-on>
+    <id type="integer">632435</id>
+    <last-changed-on type="datetime">2010-01-29T20:24:32Z</last-changed-on>
+    <name>TIGER</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2006-09-13</created-on>
+    <id type="integer">632481</id>
+    <last-changed-on type="datetime">2006-11-16T20:18:11Z</last-changed-on>
+    <name>Ticket System</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement nil="true"></announcement>
+    <created-on type="date">2006-09-27</created-on>
+    <id type="integer">654558</id>
+    <last-changed-on type="datetime">2009-10-19T21:08:55Z</last-changed-on>
+    <name>Deutsch Im Blick</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">405968</id>
+      <name>Language Technology Center</name>
+    </company>
+  </project>
+  <project>
+    <announcement nil="true"></announcement>
+    <created-on type="date">2006-09-28</created-on>
+    <id type="integer">655953</id>
+    <last-changed-on type="datetime">2007-06-08T16:32:00Z</last-changed-on>
+    <name>Italian Grammar &amp; Culture</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">405968</id>
+      <name>Language Technology Center</name>
+    </company>
+  </project>
+  <project>
+    <announcement nil="true"></announcement>
+    <created-on type="date">2006-09-28</created-on>
+    <id type="integer">655959</id>
+    <last-changed-on type="datetime" nil="true"></last-changed-on>
+    <name>Portuguese Podcast</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">405968</id>
+      <name>Language Technology Center</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2006-10-10</created-on>
+    <id type="integer">673699</id>
+    <last-changed-on type="datetime">2007-10-19T19:44:10Z</last-changed-on>
+    <name>Grant Reporting Site</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">286042</id>
+      <name>TW Mills</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2006-10-12</created-on>
+    <id type="integer">677777</id>
+    <last-changed-on type="datetime">2007-02-06T16:47:31Z</last-changed-on>
+    <name>Help Desk Phone Log</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2006-10-20</created-on>
+    <id type="integer">690214</id>
+    <last-changed-on type="datetime">2007-02-06T16:44:36Z</last-changed-on>
+    <name>Help Desk Check Log</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2006-10-25</created-on>
+    <id type="integer">697984</id>
+    <last-changed-on type="datetime">2007-03-09T21:52:39Z</last-changed-on>
+    <name>TBH Redesign</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">428902</id>
+      <name>Texas Beyond History</name>
+    </company>
+  </project>
+  <project>
+    <announcement nil="true"></announcement>
+    <created-on type="date">2006-11-03</created-on>
+    <id type="integer">715503</id>
+    <last-changed-on type="datetime">2009-04-02T17:21:31Z</last-changed-on>
+    <name>TxP CMS</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">286042</id>
+      <name>TW Mills</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Producer: Emily
+Project Manager: Emily
+Client: Mohammad Ghanoonparvar
+Grammar Content Provider:  Koorosh Angali
+Instructional Content Providers:  Blake Atwood, Shahla Adel
+FINAL URL: http://www.laits.utexas.edu/persian_grammar/ 
+
+Persian Online is a site for second language learners of Persian designed to be open to a worldwide audience.  It will contain both basic grammar for beginning, intermediate, and advanced students, as well as a glossary, bibliography, and audio and video multimedia content.
+
+Goal for Spring Semester 2007:
+
+Complete a 20-40 page prototype to be tested by beginning and intermediate Persian classes on campus.
+
+Goal for Summer 2007:
+
+Review findings of user testing of prototype, and determine next steps for content development and possible content management.
+
+Updates:  New design utilizes 7 wordpress &quot;blogs&quot; to preserve content flexibility. Grammar has been separated into a separate section.  A new structure for instructional sections is being developed.  Goal is SIX to EIGHT sample lessons, with multimedia, for Fall 2008.
+
+Accomplished:  5 lessons for Fall 2008 in E1.  Continue to port over and revise grammar content as tech support is available.
+
+New goal for Dec 2008: All E1 lessons tested in class and finalized:  one lesson in E2, I1, and I2 (Moh, Shahla, Blake).
+and May 2009:  Grammar formatting and audio recording, and audio tagging completed (Ran)
+
+Stand alone DVD version delivered May 30.  Submitted to search engines by May 30.  Project functionally complete.
+
+Emily</announcement>
+    <created-on type="date">2006-11-06</created-on>
+    <id type="integer">718849</id>
+    <last-changed-on type="datetime">2009-11-03T22:45:14Z</last-changed-on>
+    <name>Persian Online</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">439651</id>
+      <name>Middle Eastern Studies</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Producer: Emily
+Project Manager: Daniel
+Client: Mohammad Al-Batal
+ORIGINAL URL: http://www.aswaatarabiyya.emory.edu/
+TRANSITIONAL URL: http://www.laits.utexas.edu/arabic_listening
+RELEASE URL:  http://www.laits.utexas.edu/aswaat
+
+Aswaat Arabiyya is an resource for intermediate to advanced students of Arabic, featuring a rich variety of video content collected from native speakers and primary cultural sources. It was originally created at Emory University but Dr. Al-Batal would like to have it hosted here, so that he can continue to develop (edit and add) the existing content. Our challenge is that the application was created in Director, and we don&#8217;t currently support this at the server level. Also, the original app requires that the user download a significant amount of files, and while this is not done in such a way that it affects the limited copyright of the content material, it does provide ongoing support issues, and may feel too cumbersome to a modern user. We are exploring the redesign of the site in Flash, but this poses both functionality and server issues. We are working in partnership with Scott Hendrick of DIIA to investigate the Flash option, but no final decision to move forward has been made to date.
+
+Goal for Spring 2007:
+
+Complete a demo Flash player prototype for video delivery and fully investigate pros and cons of redesign of site in Flash, including server/hosting implications.
+
+Revision April 2007:
+
+Prototype player has been delivered, has some issues with sync but is promising.
+
+Meanwhile, Emory is unable to continue hosting past June 07: we are completing a report of the existing director site to UT servers.
+
+Also, planning for a &#8220;full force&#8221; redesign: new content production concurrent with site redesign: Dedicated station for final cut editing, new visual design, fully functioning player client by perhaps Oct 2007; aim for public launch as early as January 2008.
+Comments
+Trash Emily Cicchini said&#8230; (15 Aug 07, looking at version 2) Indicator
+
+    Update: On target for delivery of flash-based &#8220;Aswaat Arabiyya 2.0&#8221; by January 2008.
+    Update: 209 videos, double the original content, launched May 2008.  Flashpaper support target date:  Sept 2008.
+</announcement>
+    <created-on type="date">2006-12-14</created-on>
+    <id type="integer">779938</id>
+    <last-changed-on type="datetime">2009-09-30T19:41:32Z</last-changed-on>
+    <name>Aswaat Arabiyya</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">439651</id>
+      <name>Middle Eastern Studies</name>
+    </company>
+  </project>
+  <project>
+    <announcement>For the re-publishing of Alkitaab online textbook for Professor Mahmoud Al-Batal:
+
+http://www.laits.utexas.edu/alkitaabtextbook/
+
+And suppport for the restricted access website:
+
+http://www.laits.utexas.edu/arabic_teaching_resources
+
+Both are hand coded html/css,  alkitaabtextbook was originally built at Emory university and uses php.
+
+Both have been maintained by a variety of STAs and Middle Eastern Studies student workers, including Dart Risely III, Lindsey Jones, Kelsey Innis (No longer active), and Kathy Chung.
+
+Emily Cicchini is project managing:  These are not formal LAITS Faculty grants, but &quot;walk-ins.&quot;</announcement>
+    <created-on type="date">2006-12-14</created-on>
+    <id type="integer">780056</id>
+    <last-changed-on type="datetime">2009-10-15T17:25:52Z</last-changed-on>
+    <name>Alkitaab Textbook &amp; Arabic Teaching Resources</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">439651</id>
+      <name>Middle Eastern Studies</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2007-01-26</created-on>
+    <id type="integer">852283</id>
+    <last-changed-on type="datetime">2008-01-16T17:35:43Z</last-changed-on>
+    <name>Word Conversion Discussions</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement>The project where we deal with the SENF Scanning and other remediation efforts.</announcement>
+    <created-on type="date">2007-02-08</created-on>
+    <id type="integer">881936</id>
+    <last-changed-on type="datetime">2007-02-23T17:55:50Z</last-changed-on>
+    <name>SNN Remediation/Security Project</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2007-02-12</created-on>
+    <id type="integer">887692</id>
+    <last-changed-on type="datetime">2008-08-23T15:58:37Z</last-changed-on>
+    <name>Video Captioning</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2007-03-02</created-on>
+    <id type="integer">928130</id>
+    <last-changed-on type="datetime" nil="true"></last-changed-on>
+    <name>Seven Ring Cup</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2007-03-07</created-on>
+    <id type="integer">937460</id>
+    <last-changed-on type="datetime" nil="true"></last-changed-on>
+    <name>Listening to and Reading in Arabic</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2007-03-19</created-on>
+    <id type="integer">963386</id>
+    <last-changed-on type="datetime" nil="true"></last-changed-on>
+    <name>Paradise Lost Audiotext, Books 1 &amp; 2</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">556354</id>
+      <name>English</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2007-03-19</created-on>
+    <id type="integer">963421</id>
+    <last-changed-on type="datetime" nil="true"></last-changed-on>
+    <name>Japanese Language Site - JOSHU</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">171854</id>
+      <name>Japanese</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2007-03-19</created-on>
+    <id type="integer">963438</id>
+    <last-changed-on type="datetime" nil="true"></last-changed-on>
+    <name>Student Technonology Assistant Project</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2007-04-02</created-on>
+    <id type="integer">992646</id>
+    <last-changed-on type="datetime">2007-04-10T02:37:26Z</last-changed-on>
+    <name>ASL 507/ASL2 Online</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2007-04-03</created-on>
+    <id type="integer">995102</id>
+    <last-changed-on type="datetime">2007-04-03T14:46:51Z</last-changed-on>
+    <name>Spanish Best Teaching Videos (Salaberry)</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">1077995</id>
+      <name>Spanish and Portuguese</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2007-04-04</created-on>
+    <id type="integer">998190</id>
+    <last-changed-on type="datetime">2008-07-14T16:07:03Z</last-changed-on>
+    <name>Calhoun 100 lighting arrangments</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2007-04-16</created-on>
+    <id type="integer">1022374</id>
+    <last-changed-on type="datetime">2007-04-23T15:37:28Z</last-changed-on>
+    <name>Summer Faculty Technology Workshop</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2007-04-17</created-on>
+    <id type="integer">1025420</id>
+    <last-changed-on type="datetime">2007-09-11T20:38:53Z</last-changed-on>
+    <name>LAITS Website Redesign</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2007-04-30</created-on>
+    <id type="integer">1051310</id>
+    <last-changed-on type="datetime">2007-05-01T18:36:09Z</last-changed-on>
+    <name>Internal Project Impact Assessment Measure</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement>To-do lists, milestones, proposals, other documents, and discussion for components of design of COLA Web presence including Department sites, College sites, Faculty Sandbox, Video and Still photography production, Design, and Organizational Support</announcement>
+    <created-on type="date">2007-05-18</created-on>
+    <id type="integer">1092279</id>
+    <last-changed-on type="datetime">2010-05-17T21:38:08Z</last-changed-on>
+    <name>COLA Web Design - Main</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">false</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">218487</id>
+      <name>College of Liberal Arts</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Faculty Developer: Kristen Brustad
+Project Manager: Emily Cicchini
+DEV URL:  http://dev.laits.utexas.edu/arabic_dialects/
+
+This project aims to create an Arabic Dialects website that will serve both Arabic and Linguistics students, faculty, and visiting researchers at The University of Texas at Austin. It is behind an EID.  The website will house a well-indexed, searchable online databank containing over fifty hours of audio and audio-visual materials in different dialects across the Arab world, from Morocco to the Gulf. These materials consist of authentic listening passages in a range of Arabic dialects and registers, most of which were collected by the Project Director in the field, supplemented by contributions from students and colleagues.
+
+Tasks include:
+
+1. Digitizing approx. 50 video tapes and 20 audio cassettes of existing dialect material
+2. Cataloging and creating multiple level indexes for flexible searching
+
+Deadline: July 15 07 Who: Gary will work with STA&#8217;s to support Brustad.
+
+3. Web design with audio and video players, EID authentication, and robust search function
+
+4. Labeling of content to enable complex searching (possibly DASE)
+
+Deadline: Dec 15 07 Who: Brustad and MES Grad student, LAITS TBD
+
+5. Populate a prototype, possible content managed, possibly MT
+
+Deadline: Feb 1 08 Who: TBD
+
+6. Evaluate and revise, make plan for addition content inclusion
+
+Deadline; May 08 Who: Brusted, TBD
+
+UPDATE:  Alex added to project.  Kaley moves on.  Alex works on identifying countries and cities for all target countries.  Brustad continues to develop text content;  Alex works on source audio and video digitization and selection.  Target for first 4 countries:  Fall, 2008.  For next 4:  Spring, 2008.</announcement>
+    <created-on type="date">2007-06-08</created-on>
+    <id type="integer">1139522</id>
+    <last-changed-on type="datetime">2008-11-24T21:38:43Z</last-changed-on>
+    <name>Arabic Dialects</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">439651</id>
+      <name>Middle Eastern Studies</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2007-08-07</created-on>
+    <id type="integer">1279516</id>
+    <last-changed-on type="datetime">2007-12-11T20:40:19Z</last-changed-on>
+    <name>Kelm Portuguese Pilot Project - Fall 2007</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">1077995</id>
+      <name>Spanish and Portuguese</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2007-08-15</created-on>
+    <id type="integer">1300342</id>
+    <last-changed-on type="datetime">2007-09-14T19:21:36Z</last-changed-on>
+    <name>Constitution Day</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Faculty Developer: Coleman Hutchison
+Additional Content Provider:  Olin Bjork (off campus)
+Additional Tech Support:  Scott Herrick (DIIA)
+Key STA:  David Choi
+Key LAITS Staff:  Michael Heidenreich
+Emily Cicchini, Project Manager
+DEV URL:  http://www.laits.utexas.edu/leaves/leaves12v4.html
+
+Flash based interactive audio text for Dept of English instructional purposes.
+
+Goal: to illustrate difference between casual contemporary and nineteenth century readings of the text of &#8220;Songs of Myself,&#8221; part of Leaves of Grass.
+
+Prototyping in classes: Fall, 2008.
+Goal for this iteration completion: Spring, 2009.
+
+Audio text build from tech of Paradise Lost, Olin will still work on through Fall semester. Need to find an STA to pick up the work at that time. Coleman wants essentially the same interface. Some images from whitmanarchive.org, he will handle rights clearances.
+
+Prototype is already working, with some tweaking still happening: &#8220;fish-eye&#8221; function for close ups, possible ditch of relative sizing of windows, perhaps use of flashpaper feature. NOTE: Can/should the flash player handle multiple choice of streams on user&#8217;s demand: i.e., can they choose voices?
+
+Will include annotations, comparisons of versions (key passages only), and SIX alternative voiced versions of the text. Text comprized of 52 sections, each section to be recorded in units of natural stanzas of 2 or more lines.
+
+Diversity of voices is key. Will hold &#8220;auditions&#8221; from wide pool across campus. Six voices ideal, 3 male, 3 female, two relatively standard, others with variations. Has some funds to pay. Might &#8220;audio test&#8221; before final selection.
+
+Coleman will direct and coach performances in the audio studio.
+
+Also discussed NEH grants: see development notes. Also: possible sections for &#8220;how to use this site,&#8221; additional activities, recordings of alternative text, etc.
+
+Flash with some CSS/HTML pages for ease of future development may be key.
+
+TIMELINE:
+
+AUG-DEC: Prototype development with code and existing text. Annotation development by faculty. STA assigned and trained by Olin (long distance).
+JAN-MAY: Talent selection, rehearsal, recording.
+JUNE-AUGUST: Selection of primary and additional audio and coding.
+
+Updates:  On track for Audio in FALL 2008.  Will probably need additional time for annotation components.
+
+</announcement>
+    <created-on type="date">2007-08-23</created-on>
+    <id type="integer">1322138</id>
+    <last-changed-on type="datetime">2009-10-27T19:12:33Z</last-changed-on>
+    <name>Song of Myself - Audiotext Project</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">556354</id>
+      <name>English</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2007-08-28</created-on>
+    <id type="integer">1331958</id>
+    <last-changed-on type="datetime">2007-10-30T19:16:28Z</last-changed-on>
+    <name>Video production system and workflow rebuild</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Joint project with the Shusterman Center for Jewish Studies, the College of Liberal Arts, and Holocaust Museum Houston.  Project includes web-based and DVD based series of lectures recorded in Houston 2007-2008.</announcement>
+    <created-on type="date">2007-08-30</created-on>
+    <id type="integer">1339696</id>
+    <last-changed-on type="datetime">2008-12-11T15:22:55Z</last-changed-on>
+    <name>Medical Ethics Lecture Series</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Faculty Developer:  Sam Baker (Back ups:  Coleman Hutchison, Lars Hinrichs
+Grad Student Developer/Programmer:  Travis Brown
+Project coordinator:  Kate Beutner
+Project Manager:  Emily Cicchini
+DEV URL:  http://ecomma.cwrl.utexas.edu/0.2.0/
+DEMO OF NEW DESIGN 8/30/2008:  http://rubricated.com/ecomma/demos/blue.xhtml
+http://rubricated.com/ecomma/demos/blue.png
+
+e-comma, or the &quot;e-Commentary Machine&quot; is a tool for collaboratively marking up literary texts with comments and tags.  Travis Brown is doing all the development with the aid of some help from Will McCutchen and other students provided by DIIA.  It's housed on the CWRL servers.  
+
+Goal:  Testing the in Fall of 2007:  completed.  Funding from NEH Digital Start Up project secured Spring 2008.  Revisions continue in Spring and Summer of 2008.  Possible collaborative project with HRC reported in June 2008. </announcement>
+    <created-on type="date">2007-09-10</created-on>
+    <id type="integer">1363149</id>
+    <last-changed-on type="datetime">2009-12-02T21:20:58Z</last-changed-on>
+    <name>E-Commentary Machine (eComma)</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">556354</id>
+      <name>English</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2007-09-11</created-on>
+    <id type="integer">1365588</id>
+    <last-changed-on type="datetime">2008-08-21T14:05:00Z</last-changed-on>
+    <name>Web-Based Tutorial in Phonology</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">1077963</id>
+      <name>Linguistics</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Faculty Developer: Franky Ramont
+Project Producer: Jim Henson
+Project Manager: Suloni Robertson</announcement>
+    <created-on type="date">2007-10-23</created-on>
+    <id type="integer">1479129</id>
+    <last-changed-on type="datetime">2010-05-11T17:37:21Z</last-changed-on>
+    <name>ASL Online 3</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">1077963</id>
+      <name>Linguistics</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2007-11-02</created-on>
+    <id type="integer">1509344</id>
+    <last-changed-on type="datetime">2007-11-02T17:41:14Z</last-changed-on>
+    <name>Religion Report:  Steve Friesen</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">171853</id>
+      <name>Classics</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Faculty Developer: Yoav Di-Capua
+Project Producer: Jim Henson
+Project Manager: Emily Cicchini</announcement>
+    <created-on type="date">2007-11-08</created-on>
+    <id type="integer">1526098</id>
+    <last-changed-on type="datetime">2010-05-21T18:25:29Z</last-changed-on>
+    <name>History of the Modern Middle East</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">158501</id>
+      <name>History</name>
+    </company>
+  </project>
+  <project>
+    <announcement>The Faculty Sandbox is intended as a set of tools to support gathering, maintaining, and making available for Web or other publication data from and about each faculty member in the College.</announcement>
+    <created-on type="date">2008-03-06</created-on>
+    <id type="integer">1848634</id>
+    <last-changed-on type="datetime">2008-07-10T16:22:45Z</last-changed-on>
+    <name>COLA Web Redesign - Faculty Sandbox</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">218487</id>
+      <name>College of Liberal Arts</name>
+    </company>
+  </project>
+  <project>
+    <announcement>A multicomponent project that will revise lower-division Spanish instruction by intergrating (1) a database (corpus) of Spanish language uses that can be used as both a research resource and as source material for the following three components; (2) training videos for lower-division Spanish instructors; (3) exercises, lesson plans, and multimedia teaching material for Spanish instructors; (4) a website housing comprehensive course materials for students.  </announcement>
+    <created-on type="date">2008-07-15</created-on>
+    <id type="integer">2245294</id>
+    <last-changed-on type="datetime">2010-02-25T21:54:38Z</last-changed-on>
+    <name>Spanish Course Materials Project (Salaberry)</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">1077995</id>
+      <name>Spanish and Portuguese</name>
+    </company>
+  </project>
+  <project>
+    <announcement>LAITS will create a set of video clips featuring UT-associated experts discussing Constitutional issues and themes related to the electoral process in the United States as part of UT's federal mandate to provide educational material related to the ratification of the Constitution.  The 2008 project also includes a redesign  of the website that (1) makes the substantive content of the videos more transparent to users; (2) organizes the video according to theme and/or subject rather than the year the video was produced; (3) makes content more flexibly and easily managed for the posting of future video content.
+
+Project manager / video production:  Daniel Garza
+Web design and coding:  Ming Gong
+Written content:  Jim Henson
+Audio production:  Mike Heidenreich
+Producer / Client:  Jim Henson
+</announcement>
+    <created-on type="date">2008-07-28</created-on>
+    <id type="integer">2285947</id>
+    <last-changed-on type="datetime">2008-09-30T21:53:06Z</last-changed-on>
+    <name>Constitution Day website</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2008-08-08</created-on>
+    <id type="integer">2323676</id>
+    <last-changed-on type="datetime">2008-08-21T13:51:39Z</last-changed-on>
+    <name>Germanic Studies Digitizing Station</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">1076470</id>
+      <name>Germanic Studies</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2008-08-08</created-on>
+    <id type="integer">2324754</id>
+    <last-changed-on type="datetime">2008-08-21T13:49:30Z</last-changed-on>
+    <name>HRH 4.102 Classroom/Lab Upgrade</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">151705</id>
+      <name>French and Italian</name>
+    </company>
+  </project>
+  <project>
+    <announcement nil="true"></announcement>
+    <created-on type="date">2008-08-11</created-on>
+    <id type="integer">2327668</id>
+    <last-changed-on type="datetime">2009-06-05T21:18:41Z</last-changed-on>
+    <name>Rockin' Russian</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">405968</id>
+      <name>Language Technology Center</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2008-08-11</created-on>
+    <id type="integer">2327748</id>
+    <last-changed-on type="datetime">2008-08-21T13:27:32Z</last-changed-on>
+    <name>British Studies Audio Archive</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">1077793</id>
+      <name>British Studies</name>
+    </company>
+  </project>
+  <project>
+    <announcement nil="true"></announcement>
+    <created-on type="date">2008-08-11</created-on>
+    <id type="integer">2328401</id>
+    <last-changed-on type="datetime">2010-02-01T23:17:00Z</last-changed-on>
+    <name>Technologies of Race and Identity</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">158442</id>
+      <name>Anthropology</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Faculty Developer:  Lars Hinrichs
+Project Manager:  Emily Cicchini
+Video Consultation:  Daniel Garza
+General Content Consultation:  Carl Blyth, Hans Boas, Sam Baker, Norma Mendoza Denton 
+Programming Consultation:  Peter Keane and Travis Brown, (John Gallner?)
+ALSO:  FastTex/DIIA support is expected
+
+No LAITS server presence as of yet:  Project has 2 terabyte raids dedicated for video storage.
+
+This project involves sociolinguistic research using students and field collected multimedia of Texas English speakers (audio and video).
+The project will begin by prototyping the collection and editing process of short (10 minute) documentary films to ultimately be presented on the web.
+It corresponds with a class and research proposed by Professor Lars Hinrichs of the Department of English, and may work collaboratively with e-comma and the Texas German Dialect Projects.
+
+
+MAIN SHORT RANGE GOAL:  Creation of prototype video by April, 2009 delivered online.
+
+
+
+</announcement>
+    <created-on type="date">2008-08-11</created-on>
+    <id type="integer">2328432</id>
+    <last-changed-on type="datetime">2010-04-01T19:10:52Z</last-changed-on>
+    <name>Texas English Project</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">556354</id>
+      <name>English</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Faculty Developer: Jennifer Miller
+Project Manager: James Lewis</announcement>
+    <created-on type="date">2008-08-11</created-on>
+    <id type="integer">2329055</id>
+    <last-changed-on type="datetime">2009-08-06T17:37:53Z</last-changed-on>
+    <name>Digital Geographies</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">1078247</id>
+      <name>Geography</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Faculty Developer: Dale Koike
+Project Producer: Jim Henson
+Project Manager: Daniel Garza</announcement>
+    <created-on type="date">2008-08-11</created-on>
+    <id type="integer">2329149</id>
+    <last-changed-on type="datetime">2010-05-07T14:20:16Z</last-changed-on>
+    <name> Spanish Corpus &amp; Proficiency Level Training (SPT) - Koike Website Retooling</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">1077995</id>
+      <name>Spanish and Portuguese</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Producer: Jim Henson
+Project Manager: Michael Heidenreich
+Client: John McKiernan-Gonzalez
+
+Onda Latina is an audio archive of the Mexican American Experience, a radio show produced by the Longhorn Radio Network from the late 1970's through the early 1980's.  This archive will create a searchable audio database of 200 hours of Latino community radio broadcasts for undergraduates, as well as specialists in Latino studies, American cultural history and Texas Politics.  We are working with Kelly Kerbow from The Benson Library to obtain the original recordings of these broadcasts and with Coco Kishi and Justin Olmanson of DIIA in the creation of the website.
+
+Goals for Fall 2008:
+Digitize a majority of the 198 radio broadcasts, decide on and begin to enter the best metadata for each recording and begin testing the website design.
+
+Goals for Spring 2009:
+Finish digitizing radio broadcasts, finish entering metadata for each recording and work on website creation.
+
+Goals for Summer 2009:
+Finish website.
+
+Goals for Fall 2009:
+Begin testing of website functions.
+
+Goals for Spring 2010:
+Begin using website in class.
+</announcement>
+    <created-on type="date">2008-08-11</created-on>
+    <id type="integer">2329830</id>
+    <last-changed-on type="datetime">2009-12-03T18:34:46Z</last-changed-on>
+    <name>The Onda Latina Project: Digitizing the Mexican American Experience in the Longhorn Radio Network</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">158501</id>
+      <name>History</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2008-08-11</created-on>
+    <id type="integer">2329890</id>
+    <last-changed-on type="datetime">2008-08-21T13:24:33Z</last-changed-on>
+    <name>3-D Imaging and Materials for Archaeology and Physical Anthropology</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">158442</id>
+      <name>Anthropology</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2008-08-11</created-on>
+    <id type="integer">2329956</id>
+    <last-changed-on type="datetime">2010-05-11T15:52:23Z</last-changed-on>
+    <name>eSkeletons </name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">158442</id>
+      <name>Anthropology</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Faculty Developer: Mary Neuburger
+Project Producer: Jim Henson
+Project Manager: Peter Keane</announcement>
+    <created-on type="date">2008-08-11</created-on>
+    <id type="integer">2330273</id>
+    <last-changed-on type="datetime">2010-04-28T17:59:06Z</last-changed-on>
+    <name>East European Jewish History</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">158501</id>
+      <name>History</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Faculty Lead: Adam Rabinowitz
+Project Manager: Peter Keane
+Project Producer: Jim Henson
+</announcement>
+    <created-on type="date">2008-08-11</created-on>
+    <id type="integer">2330335</id>
+    <last-changed-on type="datetime">2009-10-20T15:59:24Z</last-changed-on>
+    <name>GeoDia (TimeMap): An Interactive Spatial Timeline of the Ancient Mediterranean</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">171853</id>
+      <name>Classics</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2008-08-12</created-on>
+    <id type="integer">2333140</id>
+    <last-changed-on type="datetime">2008-11-13T18:53:21Z</last-changed-on>
+    <name>Spanish and Portuguese Media Center</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">1077995</id>
+      <name>Spanish and Portuguese</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2008-08-12</created-on>
+    <id type="integer">2333205</id>
+    <last-changed-on type="datetime">2008-10-20T17:22:41Z</last-changed-on>
+    <name>Ancient Mesoamerica Website</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">158442</id>
+      <name>Anthropology</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2008-08-12</created-on>
+    <id type="integer">2333822</id>
+    <last-changed-on type="datetime">2008-08-21T13:29:27Z</last-changed-on>
+    <name>Classics Computer Lab Update</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">171853</id>
+      <name>Classics</name>
+    </company>
+  </project>
+  <project>
+    <announcement>A publicly available statewide survey of public opinion in Texas designed and directed by members of the UT Austin Government Department and published at the Texas Politics website.</announcement>
+    <created-on type="date">2008-08-12</created-on>
+    <id type="integer">2335016</id>
+    <last-changed-on type="datetime">2009-12-07T19:17:12Z</last-changed-on>
+    <name>UT/Texas Politics poll</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">1085181</id>
+      <name>Government</name>
+    </company>
+  </project>
+  <project>
+    <announcement>This project folder is designed to contain all the administrative and procedural documents for your reference. </announcement>
+    <created-on type="date">2008-08-18</created-on>
+    <id type="integer">2349507</id>
+    <last-changed-on type="datetime">2008-12-09T17:52:46Z</last-changed-on>
+    <name>2008-09 IT Grant Projects - Administrative Documents</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement nil="true"></announcement>
+    <created-on type="date">2008-08-26</created-on>
+    <id type="integer">2377180</id>
+    <last-changed-on type="datetime">2009-11-20T17:17:21Z</last-changed-on>
+    <name>Student Technology Assistant Project</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">153862</id>
+      <name>Student Technology Assistants (STAs)</name>
+    </company>
+  </project>
+  <project>
+    <announcement nil="true"></announcement>
+    <created-on type="date">2008-09-10</created-on>
+    <id type="integer">2425653</id>
+    <last-changed-on type="datetime">2010-06-03T21:30:54Z</last-changed-on>
+    <name>Scanning Services</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement nil="true"></announcement>
+    <created-on type="date">2008-10-17</created-on>
+    <id type="integer">2546824</id>
+    <last-changed-on type="datetime">2010-01-25T18:58:10Z</last-changed-on>
+    <name>eLucy</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">158442</id>
+      <name>Anthropology</name>
+    </company>
+  </project>
+  <project>
+    <announcement nil="true"></announcement>
+    <created-on type="date">2008-10-31</created-on>
+    <id type="integer">2592173</id>
+    <last-changed-on type="datetime">2010-01-25T18:58:07Z</last-changed-on>
+    <name>eFossils</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">158442</id>
+      <name>Anthropology</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2008-11-06</created-on>
+    <id type="integer">2609011</id>
+    <last-changed-on type="datetime">2008-11-06T16:50:44Z</last-changed-on>
+    <name>DASe@CoFA</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">1171265</id>
+      <name>College of Fine Arts</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2008-11-10</created-on>
+    <id type="integer">2618509</id>
+    <last-changed-on type="datetime">2009-02-26T21:50:52Z</last-changed-on>
+    <name>Grant Proposal Site 2008-9</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement>The Liberal Arts ITS Audio Catalog is the website used to stream audio materials for foreign language classes.  The current version of the site uses streamed Quicktime moves.  Due to possible future issues with Quicktime support of flash, this site needs to be redesigned with a flash player that can handled streamed mp3s.  
+
+Project manager - Mike Heidenreich
+Flash player gurus - Ming Gong &amp; Ran An
+
+Timeline - Spring 2009 (or before Quicktime stops supporting flash)
+</announcement>
+    <created-on type="date">2008-12-01</created-on>
+    <id type="integer">2681859</id>
+    <last-changed-on type="datetime">2010-02-01T21:13:36Z</last-changed-on>
+    <name>Liberal Arts ITS Audio Catalog</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2008-12-17</created-on>
+    <id type="integer">2734713</id>
+    <last-changed-on type="datetime">2008-12-17T22:14:53Z</last-changed-on>
+    <name>Passe Partout</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">151705</id>
+      <name>French and Italian</name>
+    </company>
+  </project>
+  <project>
+    <announcement>SPT is a 2 part project
+
+part 1: 2009 SUMMER
+-Kelsey  will work on changes to improve usability of the site by making a few changes to the existing interface.
+
+part 2: 2009 FALL 
+-after further testing, we will implement an interface redesign.
+
+Content Provider: Dale Koike
+Producer: Jim Henson
+Project Manager: Daniel Garza
+STA Supervisor: Suloni Robertson
+STA Web Developer: Kelsey Innis</announcement>
+    <created-on type="date">2009-07-10</created-on>
+    <id type="integer">3458570</id>
+    <last-changed-on type="datetime">2009-08-25T16:19:59Z</last-changed-on>
+    <name>SPT-Dale Koike</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">1077995</id>
+      <name>Spanish and Portuguese</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Faculty Developer: Vivian Flanzer
+Project Producer: Jim Henson
+Project Manager: Daniel Garza</announcement>
+    <created-on type="date">2009-08-06</created-on>
+    <id type="integer">3560323</id>
+    <last-changed-on type="datetime">2010-05-10T19:33:40Z</last-changed-on>
+    <name>Portuguese Language and Culture for 2nd Year Lower-Division</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">1077995</id>
+      <name>Spanish and Portuguese</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Developer: Rachel Showstack
+Faculty Advisors: Dale Koike and Almeida Toribio
+Project Producer: Jim Henson
+Project Manager: Emily Cicchini
+
+This scope of this project on behalf of LAITS is to provide funds for a student content developer and support the online delivery of audio files and metadata provided that feature Texas Spanish Speakers.  DIIA FastTex is developing a website for this project concurrently.
+
+Project scope:
+
+1)    Dale Kokie and Jacqueline Toribio will faculty supervisors for this project, which will be a prototype for possible future use by the Department of Spanish.  
+2)    LAITS will continue to provide funding for student support as per the award letter.
+3)    LAITS will also provide client support to DIIA for web development using DASe, according to the project work flow chart (see attached).  Peter Keane will be the tech lead on this aspect of the project, meaning that he will work directly on the implementation with DIIA FastTex students. 
+4)    LAITS will provide graphic design for a limited amount of PDF instructional materials as a walk-in project via the STA program in lieu of web-based exercises for this stage of the project.  Suloni Robertson will be your contact for this aspect.
+5)    It is our understanding that DIIA will continue to design and develop the website and user interface, but will not be developing an administrative back end separately from DASe (to help better accommodate any potential for future support).  It is also our understanding that DIIA will continue to host and support your website indefinitely, unless otherwise requested by the Department of Spanish.  LAITS will continue to support the aspects of your site built upon DASe indefinitely, as well.
+(6) All work for this grant to be completed by August 31, 2010
+
+Revised 11/18/2009 EC</announcement>
+    <created-on type="date">2009-08-07</created-on>
+    <id type="integer">3564732</id>
+    <last-changed-on type="datetime">2010-06-04T22:52:52Z</last-changed-on>
+    <name>Texas Spanish Project - Showstack/Koike/Toribio</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">1077995</id>
+      <name>Spanish and Portuguese</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Faculty Developer: Timothy Moore
+Project Producer: Peter Keane
+Project Manager: Stuart Ross</announcement>
+    <created-on type="date">2009-08-10</created-on>
+    <id type="integer">3569711</id>
+    <last-changed-on type="datetime">2010-06-04T12:10:56Z</last-changed-on>
+    <name>Digital Resources for Courses on Ancient Rome</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">171853</id>
+      <name>Classics</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Faculty Developer: Orlando Kelm
+Project Producer: Jim Henson
+Project Manager: Stuart Ross</announcement>
+    <created-on type="date">2009-08-12</created-on>
+    <id type="integer">3583526</id>
+    <last-changed-on type="datetime">2010-05-04T18:25:59Z</last-changed-on>
+    <name>LESCANT Model of Cultural Communication</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">1077995</id>
+      <name>Spanish and Portuguese</name>
+    </company>
+  </project>
+  <project>
+    <announcement></announcement>
+    <created-on type="date">2009-08-14</created-on>
+    <id type="integer">3592551</id>
+    <last-changed-on type="datetime">2009-09-28T17:45:14Z</last-changed-on>
+    <name>Katakana</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>archived</status>
+    <company>
+      <id type="integer">1418149</id>
+      <name>Asian Studies</name>
+    </company>
+  </project>
+  <project>
+    <announcement nil="true"></announcement>
+    <created-on type="date">2009-09-23</created-on>
+    <id type="integer">3753905</id>
+    <last-changed-on type="datetime">2010-06-03T17:57:00Z</last-changed-on>
+    <name>wiki projects</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Faculty Lead: Naoko Suito
+Project Manager: Emily Cicchini
+Tech Lead:  Ran An
+Project Producer: Jim Henson
+Additional Support:  James Lewis, Networks, and Peter Keane, Programming
+
+Project Scope:  This project has several components.  
+
+1)  A series of videos produced by DIIA over last summer and a database for delivering these videos need to be incorporated into the website.
+
+2)  A set of existing quizes need to be upgraded to meet standard security requirements.
+
+3)  A set of new quizes need to be made that meet standard security requirements.
+
+Our goal is to have new quizes available for classes by the Spring of 2009, and the existing quizes retrofitted as soon as possible.   The video database is being revised to be managed through DASe.
+
+We are still investigating the best way to deliver quizes with student identifiable grade-level data.
+
+REV - 11/18/2009 EC</announcement>
+    <created-on type="date">2009-09-25</created-on>
+    <id type="integer">3766923</id>
+    <last-changed-on type="datetime">2010-03-18T18:49:02Z</last-changed-on>
+    <name>JOSHU / Katakana Projects</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">1418149</id>
+      <name>Asian Studies</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Content Contributors:
+Penne L Restad
+Rebecca 
+
+Project Manager:
+Suloni Robertson
+
+Word Press Support:
+Anne Alexander
+
+Site Design:
+LAITS Student Technology Assistants and professional developers on staff
+
+Description:
+The American History survey course site needs to serve several purposes:  Students will use it as a content base for the course.  It will also serve to create an image of the course as unique from the other American history courses, and not incidentally to help make students more comfortable with approaching history in a somewhat non-traditional way.  Because this course is being created as a result of a System grant for Transforming Undergraduate Education, the site should also provide colleagues an idea of what we are attempting in the course.</announcement>
+    <created-on type="date">2009-09-29</created-on>
+    <id type="integer">3780175</id>
+    <last-changed-on type="datetime">2010-02-22T22:41:58Z</last-changed-on>
+    <name>American History survey course: WordPress project</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement nil="true"></announcement>
+    <created-on type="date">2009-10-06</created-on>
+    <id type="integer">3809264</id>
+    <last-changed-on type="datetime">2009-11-20T16:40:05Z</last-changed-on>
+    <name>L' AVIS DES ARTISTES</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Responsibility the technical needs of walk-in projects rests finally with professional staff even when STAs carry through most or all of the work.  This site tracks assignments of professional staff to each walk-in project.  It also provides a forum for communication among the STA supervisor, the project manager if any, and professional staff responsible for each walk-in project.</announcement>
+    <created-on type="date">2009-10-20</created-on>
+    <id type="integer">3870212</id>
+    <last-changed-on type="datetime">2010-01-05T21:58:07Z</last-changed-on>
+    <name>Walk-In Project Staff Tech Leads</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement>Faculty PI: Denn&#233; Reed
+Project Manager: Peter Keane
+Project Producer: Joe TenBarge</announcement>
+    <created-on type="date">2009-10-26</created-on>
+    <id type="integer">3893670</id>
+    <last-changed-on type="datetime">2010-04-01T08:51:20Z</last-changed-on>
+    <name>Human Origins Teaching Initiative</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">158442</id>
+      <name>Anthropology</name>
+    </company>
+  </project>
+  <project>
+    <announcement nil="true"></announcement>
+    <created-on type="date">2009-11-10</created-on>
+    <id type="integer">3963460</id>
+    <last-changed-on type="datetime">2010-04-21T20:44:30Z</last-changed-on>
+    <name>GEODIA</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">158442</id>
+      <name>Anthropology</name>
+    </company>
+  </project>
+  <project>
+    <announcement nil="true"></announcement>
+    <created-on type="date">2009-11-11</created-on>
+    <id type="integer">3967377</id>
+    <last-changed-on type="datetime">2010-06-03T21:28:45Z</last-changed-on>
+    <name>STA Weekly Assignments</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">153862</id>
+      <name>Student Technology Assistants (STAs)</name>
+    </company>
+  </project>
+  <project>
+    <announcement nil="true"></announcement>
+    <created-on type="date">2009-12-09</created-on>
+    <id type="integer">4088270</id>
+    <last-changed-on type="datetime">2009-12-14T20:41:30Z</last-changed-on>
+    <name>Computer Request System</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement nil="true"></announcement>
+    <created-on type="date">2009-12-14</created-on>
+    <id type="integer">4105234</id>
+    <last-changed-on type="datetime">2009-12-14T20:58:23Z</last-changed-on>
+    <name>Grant Proposal Site 2009-10</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement>This is a strategic project to support the Department of Asian Studies and Hindi-Urdu Flagship program.  It involves video instruction of Hindi Medical Terminology, with original video footage shot by a third party company in India, who will be providing finished video, translations, and transcriptions.  DIIA FastTex is proving post production of this video, and may be creating a custom video player that is capable of searching video by vocabulary word. (this is a wish list item not a criteria). Faculty Developer Jishnu will be overseeing the selection and identification of vocabulary and definitions, and advanced listening comprehension self-test exercises will be multiple choice &amp; short answer and delivered on the web without user log in.  It will be open access.  The deadline for a live release under the external grant calendar is December, 2010, with a target of 20 completed video/vocabulary prototype units.  Must be able to be continually updated, additional video and content to be developed indefinately.
+
+The contact is Jishnu Shankar jshankar@austin.utexas.edu
+
+There is a DASe collection started for this site. Suloni is signed on to do a design:  The Medical Terminology will probably be done in wordpress or drupal, the scope for the instructional site is still indetermined.</announcement>
+    <created-on type="date">2010-01-22</created-on>
+    <id type="integer">4268712</id>
+    <last-changed-on type="datetime">2010-06-03T17:47:13Z</last-changed-on>
+    <name>Hindi Medical Terminology</name>
+    <show-announcement type="boolean">true</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">1418149</id>
+      <name>Asian Studies</name>
+    </company>
+  </project>
+  <project>
+    <announcement nil="true"></announcement>
+    <created-on type="date">2010-04-05</created-on>
+    <id type="integer">4651706</id>
+    <last-changed-on type="datetime">2010-05-21T05:07:14Z</last-changed-on>
+    <name>2010-11 Project Needs</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement nil="true"></announcement>
+    <created-on type="date">2010-05-14</created-on>
+    <id type="integer">4863527</id>
+    <last-changed-on type="datetime">2010-05-28T05:07:40Z</last-changed-on>
+    <name>Quiz Maker/Quiz Taker</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+  <project>
+    <announcement nil="true"></announcement>
+    <created-on type="date">2010-05-14</created-on>
+    <id type="integer">4865304</id>
+    <last-changed-on type="datetime">2010-05-14T14:56:35Z</last-changed-on>
+    <name>Humpty Dumpty Portal</name>
+    <show-announcement type="boolean">false</show-announcement>
+    <show-writeboards type="boolean">true</show-writeboards>
+    <start-page>log</start-page>
+    <status>active</status>
+    <company>
+      <id type="integer">147019</id>
+      <name>Liberal Arts Instructional Technology Services</name>
+    </company>
+  </project>
+</projects>

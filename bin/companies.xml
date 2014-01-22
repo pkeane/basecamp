@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<companies type="array">
+  <company>
+    <address-one>1 University Station, B3500</address-one>
+    <address-two></address-two>
+    <city>Austin</city>
+    <country>United States</country>
+    <id type="integer">147019</id>
+    <locale>en</locale>
+    <name>Liberal Arts Instructional Technology Services</name>
+    <phone-number-fax>512-471-7718</phone-number-fax>
+    <phone-number-office>512-471-7095</phone-number-office>
+    <state>TX</state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>96524440-6eed-3bf9-9056-fc056e4d4dec</uuid>
+    <web-address>http://www.laits.utexas.edu/</web-address>
+    <zip>78712</zip>
+  </company>
+  <company>
+    <address-one>1 University Station D7200 </address-one>
+    <address-two>JES A232A</address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city>Austin</city>
+    <client-of type="integer">147019</client-of>
+    <country>United States</country>
+    <id type="integer">153861</id>
+    <locale>en</locale>
+    <name>African and African American Studies</name>
+    <phone-number-fax></phone-number-fax>
+    <phone-number-office>512-471-1784 </phone-number-office>
+    <state>TX</state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>3ea62698-0fb0-3a03-89a6-23b2e4703cd6</uuid>
+    <web-address>http://www.utexas.edu/cola/centers/caaas/</web-address>
+    <zip>78712</zip>
+  </company>
+  <company>
+    <address-one nil="true"></address-one>
+    <address-two nil="true"></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city nil="true"></city>
+    <client-of type="integer">147019</client-of>
+    <country nil="true"></country>
+    <id type="integer">158442</id>
+    <locale>en</locale>
+    <name>Anthropology</name>
+    <phone-number-fax nil="true"></phone-number-fax>
+    <phone-number-office nil="true"></phone-number-office>
+    <state nil="true"></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>b5536fca-fe21-3898-8464-4e140734191c</uuid>
+    <web-address nil="true"></web-address>
+    <zip nil="true"></zip>
+  </company>
+  <company>
+    <address-one></address-one>
+    <address-two></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city></city>
+    <client-of type="integer">147019</client-of>
+    <country></country>
+    <id type="integer">1457892</id>
+    <locale>en</locale>
+    <name>Arabic Flagship Program</name>
+    <phone-number-fax></phone-number-fax>
+    <phone-number-office></phone-number-office>
+    <state></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>20c2a617-2822-3d80-ba33-25ff194b9823</uuid>
+    <web-address></web-address>
+    <zip></zip>
+  </company>
+  <company>
+    <address-one></address-one>
+    <address-two></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city></city>
+    <client-of type="integer">147019</client-of>
+    <country></country>
+    <id type="integer">1418149</id>
+    <locale>en</locale>
+    <name>Asian Studies</name>
+    <phone-number-fax></phone-number-fax>
+    <phone-number-office></phone-number-office>
+    <state></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>20c2a617-2822-3d80-ba33-25ff194b9823</uuid>
+    <web-address></web-address>
+    <zip></zip>
+  </company>
+  <company>
+    <address-one>Harry Ransom Humanities Research Center 3.202 </address-one>
+    <address-two></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city>Austin</city>
+    <client-of type="integer">147019</client-of>
+    <country></country>
+    <id type="integer">1077793</id>
+    <locale>en</locale>
+    <name>British Studies</name>
+    <phone-number-fax></phone-number-fax>
+    <phone-number-office>512-475-7228</phone-number-office>
+    <state>TX</state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>20c2a617-2822-3d80-ba33-25ff194b9823</uuid>
+    <web-address>http://www.utexas.edu/cola/progs/britishstudies/</web-address>
+    <zip>78712</zip>
+  </company>
+  <company>
+    <address-one nil="true"></address-one>
+    <address-two nil="true"></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city nil="true"></city>
+    <client-of type="integer">147019</client-of>
+    <country nil="true"></country>
+    <id type="integer">171853</id>
+    <locale>en</locale>
+    <name>Classics</name>
+    <phone-number-fax nil="true"></phone-number-fax>
+    <phone-number-office nil="true"></phone-number-office>
+    <state nil="true"></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>ec96a632-02fd-307c-b5c5-ff14fa2168ef</uuid>
+    <web-address nil="true"></web-address>
+    <zip nil="true"></zip>
+  </company>
+  <company>
+    <address-one nil="true"></address-one>
+    <address-two nil="true"></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city nil="true"></city>
+    <client-of type="integer">147019</client-of>
+    <country nil="true"></country>
+    <id type="integer">1502288</id>
+    <locale>en</locale>
+    <name>College of Education</name>
+    <phone-number-fax nil="true"></phone-number-fax>
+    <phone-number-office nil="true"></phone-number-office>
+    <state nil="true"></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>20c2a617-2822-3d80-ba33-25ff194b9823</uuid>
+    <web-address nil="true"></web-address>
+    <zip nil="true"></zip>
+  </company>
+  <company>
+    <address-one nil="true"></address-one>
+    <address-two nil="true"></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city nil="true"></city>
+    <client-of type="integer">147019</client-of>
+    <country nil="true"></country>
+    <id type="integer">1171265</id>
+    <locale>en</locale>
+    <name>College of Fine Arts</name>
+    <phone-number-fax nil="true"></phone-number-fax>
+    <phone-number-office nil="true"></phone-number-office>
+    <state nil="true"></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>20c2a617-2822-3d80-ba33-25ff194b9823</uuid>
+    <web-address nil="true"></web-address>
+    <zip nil="true"></zip>
+  </company>
+  <company>
+    <address-one></address-one>
+    <address-two></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city></city>
+    <client-of type="integer">147019</client-of>
+    <country>United States</country>
+    <id type="integer">218487</id>
+    <locale>en</locale>
+    <name>College of Liberal Arts</name>
+    <phone-number-fax></phone-number-fax>
+    <phone-number-office></phone-number-office>
+    <state></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>a5f79f57-30f8-397a-bcf2-d673f735a2bf</uuid>
+    <web-address>http://www.utexas.edu/cola/</web-address>
+    <zip></zip>
+  </company>
+  <company>
+    <address-one>FAC 8,  Mail Code B5500</address-one>
+    <address-two>University of Texas at Austin</address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city>Austin</city>
+    <client-of type="integer">147019</client-of>
+    <country></country>
+    <id type="integer">1477976</id>
+    <locale>en</locale>
+    <name>CWRL</name>
+    <phone-number-fax></phone-number-fax>
+    <phone-number-office>512-471-9293</phone-number-office>
+    <state>TX</state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>20c2a617-2822-3d80-ba33-25ff194b9823</uuid>
+    <web-address></web-address>
+    <zip>78712</zip>
+  </company>
+  <company>
+    <address-one nil="true"></address-one>
+    <address-two nil="true"></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city nil="true"></city>
+    <client-of type="integer">147019</client-of>
+    <country nil="true"></country>
+    <id type="integer">699842</id>
+    <locale>en</locale>
+    <name>DIIA</name>
+    <phone-number-fax nil="true"></phone-number-fax>
+    <phone-number-office nil="true"></phone-number-office>
+    <state nil="true"></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>20c2a617-2822-3d80-ba33-25ff194b9823</uuid>
+    <web-address nil="true"></web-address>
+    <zip nil="true"></zip>
+  </company>
+  <company>
+    <address-one nil="true"></address-one>
+    <address-two nil="true"></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city nil="true"></city>
+    <client-of type="integer">147019</client-of>
+    <country nil="true"></country>
+    <id type="integer">556354</id>
+    <locale>en</locale>
+    <name>English</name>
+    <phone-number-fax nil="true"></phone-number-fax>
+    <phone-number-office nil="true"></phone-number-office>
+    <state nil="true"></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>20c2a617-2822-3d80-ba33-25ff194b9823</uuid>
+    <web-address nil="true"></web-address>
+    <zip nil="true"></zip>
+  </company>
+  <company>
+    <address-one nil="true"></address-one>
+    <address-two nil="true"></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city nil="true"></city>
+    <client-of type="integer">147019</client-of>
+    <country nil="true"></country>
+    <id type="integer">151705</id>
+    <locale>en</locale>
+    <name>French and Italian</name>
+    <phone-number-fax nil="true"></phone-number-fax>
+    <phone-number-office nil="true"></phone-number-office>
+    <state nil="true"></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>bb475ca9-bdba-3e60-a834-40a977f7cb7e</uuid>
+    <web-address nil="true"></web-address>
+    <zip nil="true"></zip>
+  </company>
+  <company>
+    <address-one>1 University Station - A3100</address-one>
+    <address-two>GRG 334 </address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city>Austin</city>
+    <client-of type="integer">147019</client-of>
+    <country></country>
+    <id type="integer">1078247</id>
+    <locale>en</locale>
+    <name>Geography</name>
+    <phone-number-fax></phone-number-fax>
+    <phone-number-office>512-471-5116</phone-number-office>
+    <state>TX</state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>20c2a617-2822-3d80-ba33-25ff194b9823</uuid>
+    <web-address>http://www.utexas.edu/cola/depts/geography</web-address>
+    <zip>78712</zip>
+  </company>
+  <company>
+    <address-one>1 University Station, C3300</address-one>
+    <address-two>EPS 3.102</address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city>Austin</city>
+    <client-of type="integer">147019</client-of>
+    <country>United States</country>
+    <id type="integer">1076470</id>
+    <locale>en</locale>
+    <name>Germanic Studies</name>
+    <phone-number-fax></phone-number-fax>
+    <phone-number-office>512-471-4123</phone-number-office>
+    <state>TX</state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>20c2a617-2822-3d80-ba33-25ff194b9823</uuid>
+    <web-address>http://www.utexas.edu/cola/depts/germanic/</web-address>
+    <zip>78712</zip>
+  </company>
+  <company>
+    <address-one nil="true"></address-one>
+    <address-two nil="true"></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city nil="true"></city>
+    <client-of type="integer">147019</client-of>
+    <country nil="true"></country>
+    <id type="integer">1085181</id>
+    <locale>en</locale>
+    <name>Government</name>
+    <phone-number-fax nil="true"></phone-number-fax>
+    <phone-number-office nil="true"></phone-number-office>
+    <state nil="true"></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>20c2a617-2822-3d80-ba33-25ff194b9823</uuid>
+    <web-address nil="true"></web-address>
+    <zip nil="true"></zip>
+  </company>
+  <company>
+    <address-one nil="true"></address-one>
+    <address-two nil="true"></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city nil="true"></city>
+    <client-of type="integer">147019</client-of>
+    <country nil="true"></country>
+    <id type="integer">158501</id>
+    <locale>en</locale>
+    <name>History</name>
+    <phone-number-fax nil="true"></phone-number-fax>
+    <phone-number-office nil="true"></phone-number-office>
+    <state nil="true"></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>5111f0a2-a293-3538-9bc6-1524b0e38715</uuid>
+    <web-address nil="true"></web-address>
+    <zip nil="true"></zip>
+  </company>
+  <company>
+    <address-one nil="true"></address-one>
+    <address-two nil="true"></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city nil="true"></city>
+    <client-of type="integer">147019</client-of>
+    <country nil="true"></country>
+    <id type="integer">171854</id>
+    <locale>en</locale>
+    <name>Japanese</name>
+    <phone-number-fax nil="true"></phone-number-fax>
+    <phone-number-office nil="true"></phone-number-office>
+    <state nil="true"></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>3bc6284c-dbbb-3eb8-8e47-b9f6975a684c</uuid>
+    <web-address nil="true"></web-address>
+    <zip nil="true"></zip>
+  </company>
+  <company>
+    <address-one nil="true"></address-one>
+    <address-two nil="true"></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city nil="true"></city>
+    <client-of type="integer">147019</client-of>
+    <country nil="true"></country>
+    <id type="integer">405968</id>
+    <locale>en</locale>
+    <name>Language Technology Center</name>
+    <phone-number-fax nil="true"></phone-number-fax>
+    <phone-number-office nil="true"></phone-number-office>
+    <state nil="true"></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>dfb36f02-a01f-3f14-a9b2-cf176e53c947</uuid>
+    <web-address nil="true"></web-address>
+    <zip nil="true"></zip>
+  </company>
+  <company>
+    <address-one>1 University Station B5100</address-one>
+    <address-two>Calhoun 501</address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city>Austin</city>
+    <client-of type="integer">147019</client-of>
+    <country>United States</country>
+    <id type="integer">1077963</id>
+    <locale>en</locale>
+    <name>Linguistics</name>
+    <phone-number-fax></phone-number-fax>
+    <phone-number-office>512-471-1701</phone-number-office>
+    <state>TX</state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>20c2a617-2822-3d80-ba33-25ff194b9823</uuid>
+    <web-address>http://www.utexas.edu/cola/depts/linguistics/</web-address>
+    <zip>78712</zip>
+  </company>
+  <company>
+    <address-one>1 University Station F9400</address-one>
+    <address-two>WMB 6.102</address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city>Austin</city>
+    <client-of type="integer">147019</client-of>
+    <country>United States</country>
+    <id type="integer">439651</id>
+    <locale>en</locale>
+    <name>Middle Eastern Studies</name>
+    <phone-number-fax></phone-number-fax>
+    <phone-number-office>512.471.3881 </phone-number-office>
+    <state>TX</state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>38b8d956-cc37-3b8f-aff5-d7a9da07aa95</uuid>
+    <web-address>http://www.utexas.edu/cola/depts/mes/</web-address>
+    <zip>78712</zip>
+  </company>
+  <company>
+    <address-one nil="true"></address-one>
+    <address-two nil="true"></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city nil="true"></city>
+    <client-of type="integer">147019</client-of>
+    <country nil="true"></country>
+    <id type="integer">1054172</id>
+    <locale>en</locale>
+    <name>Overland Partners, Inc.</name>
+    <phone-number-fax nil="true"></phone-number-fax>
+    <phone-number-office nil="true"></phone-number-office>
+    <state nil="true"></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>20c2a617-2822-3d80-ba33-25ff194b9823</uuid>
+    <web-address nil="true"></web-address>
+    <zip nil="true"></zip>
+  </company>
+  <company>
+    <address-one nil="true"></address-one>
+    <address-two nil="true"></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city nil="true"></city>
+    <client-of type="integer">147019</client-of>
+    <country nil="true"></country>
+    <id type="integer">1526915</id>
+    <locale>en</locale>
+    <name>Philosophy</name>
+    <phone-number-fax nil="true"></phone-number-fax>
+    <phone-number-office nil="true"></phone-number-office>
+    <state nil="true"></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>20c2a617-2822-3d80-ba33-25ff194b9823</uuid>
+    <web-address nil="true"></web-address>
+    <zip nil="true"></zip>
+  </company>
+  <company>
+    <address-one>1 University Station, G3600</address-one>
+    <address-two>WCH 4.104</address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city>Austin</city>
+    <client-of type="integer">147019</client-of>
+    <country>United States</country>
+    <id type="integer">1089286</id>
+    <locale>en</locale>
+    <name>Plan II</name>
+    <phone-number-fax></phone-number-fax>
+    <phone-number-office>512-471-1442</phone-number-office>
+    <state>TX</state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>20c2a617-2822-3d80-ba33-25ff194b9823</uuid>
+    <web-address>http://www.utexas.edu/cola/progs/plan2/</web-address>
+    <zip>78712</zip>
+  </company>
+  <company>
+    <address-one>1 University Station A8000</address-one>
+    <address-two>SEA 4.212</address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city>Austin</city>
+    <client-of type="integer">147019</client-of>
+    <country>United States</country>
+    <id type="integer">1089568</id>
+    <locale>en</locale>
+    <name>Psychology</name>
+    <phone-number-fax></phone-number-fax>
+    <phone-number-office>512-471-1157</phone-number-office>
+    <state>TX</state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>20c2a617-2822-3d80-ba33-25ff194b9823</uuid>
+    <web-address>http://www.psy.utexas.edu</web-address>
+    <zip>78712</zip>
+  </company>
+  <company>
+    <address-one>1 University Station F3600</address-one>
+    <address-two>Calhoun Hall, Room 415</address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city></city>
+    <client-of type="integer">147019</client-of>
+    <country>United States</country>
+    <id type="integer">1077775</id>
+    <locale>en</locale>
+    <name>Slavic and Eurasian Studies</name>
+    <phone-number-fax></phone-number-fax>
+    <phone-number-office>512-471-3607</phone-number-office>
+    <state></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>20c2a617-2822-3d80-ba33-25ff194b9823</uuid>
+    <web-address>http://www.utexas.edu/cola/depts/slavic/</web-address>
+    <zip></zip>
+  </company>
+  <company>
+    <address-one nil="true"></address-one>
+    <address-two nil="true"></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city nil="true"></city>
+    <client-of type="integer">147019</client-of>
+    <country nil="true"></country>
+    <id type="integer">1077995</id>
+    <locale>en</locale>
+    <name>Spanish and Portuguese</name>
+    <phone-number-fax nil="true"></phone-number-fax>
+    <phone-number-office nil="true"></phone-number-office>
+    <state nil="true"></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>20c2a617-2822-3d80-ba33-25ff194b9823</uuid>
+    <web-address nil="true"></web-address>
+    <zip nil="true"></zip>
+  </company>
+  <company>
+    <address-one nil="true"></address-one>
+    <address-two nil="true"></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city nil="true"></city>
+    <client-of type="integer">147019</client-of>
+    <country nil="true"></country>
+    <id type="integer">153862</id>
+    <locale>en</locale>
+    <name>Student Technology Assistants (STAs)</name>
+    <phone-number-fax nil="true"></phone-number-fax>
+    <phone-number-office nil="true"></phone-number-office>
+    <state nil="true"></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>e745d45a-de9f-356d-87b3-b9fc8a928c3b</uuid>
+    <web-address nil="true"></web-address>
+    <zip nil="true"></zip>
+  </company>
+  <company>
+    <address-one></address-one>
+    <address-two></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city></city>
+    <client-of type="integer">147019</client-of>
+    <country>United States</country>
+    <id type="integer">428902</id>
+    <locale>en</locale>
+    <name>Texas Beyond History</name>
+    <phone-number-fax></phone-number-fax>
+    <phone-number-office></phone-number-office>
+    <state></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>5c9a6542-44cf-34d2-ac4d-84687ea08dd1</uuid>
+    <web-address></web-address>
+    <zip></zip>
+  </company>
+  <company>
+    <address-one></address-one>
+    <address-two></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city></city>
+    <client-of type="integer">147019</client-of>
+    <country></country>
+    <id type="integer">286042</id>
+    <locale>en</locale>
+    <name>TW Mills</name>
+    <phone-number-fax></phone-number-fax>
+    <phone-number-office></phone-number-office>
+    <state></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>adf1f4a1-c29b-3df0-84ed-d3f3ed9175c1</uuid>
+    <web-address></web-address>
+    <zip></zip>
+  </company>
+  <company>
+    <address-one nil="true"></address-one>
+    <address-two nil="true"></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city nil="true"></city>
+    <client-of type="integer">147019</client-of>
+    <country nil="true"></country>
+    <id type="integer">1114651</id>
+    <locale>en</locale>
+    <name>University of Texas Libraries</name>
+    <phone-number-fax nil="true"></phone-number-fax>
+    <phone-number-office nil="true"></phone-number-office>
+    <state nil="true"></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>20c2a617-2822-3d80-ba33-25ff194b9823</uuid>
+    <web-address nil="true"></web-address>
+    <zip nil="true"></zip>
+  </company>
+  <company>
+    <address-one></address-one>
+    <address-two></address-two>
+    <can-see-private type="boolean">false</can-see-private>
+    <city></city>
+    <client-of type="integer">147019</client-of>
+    <country>United States</country>
+    <id type="integer">1090861</id>
+    <locale>en</locale>
+    <name>Video Production - LAITS</name>
+    <phone-number-fax></phone-number-fax>
+    <phone-number-office></phone-number-office>
+    <state></state>
+    <time-zone-id>Central Time (US &amp; Canada)</time-zone-id>
+    <uuid>20c2a617-2822-3d80-ba33-25ff194b9823</uuid>
+    <web-address></web-address>
+    <zip></zip>
+  </company>
+</companies>
